@@ -20,5 +20,5 @@ document.write('Its '+year+ ' so you can retire in '+retireDate+'.');
 }
 
 else {
-	document.write('You can already retire');
+	document.write('You can already retire.');
 }
